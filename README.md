@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
