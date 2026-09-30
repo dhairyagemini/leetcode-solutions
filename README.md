@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
