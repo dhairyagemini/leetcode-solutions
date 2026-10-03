@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0412-fizz-buzz](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union-Find
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Queue
 |  |
