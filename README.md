@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0018-4sum) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
