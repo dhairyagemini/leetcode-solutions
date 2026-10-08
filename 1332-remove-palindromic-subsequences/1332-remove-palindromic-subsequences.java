@@ -1,6 +1,6 @@
 class Solution {
     public int removePalindromeSub(String s) {
-        if(s==null|s.length()==0)return 0;
+        if(s==null||s.length()==0)return 0;
         int left=0;
         int right=s.length()-1;
         while(left<right){
