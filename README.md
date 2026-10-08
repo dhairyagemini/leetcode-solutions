@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [1332-remove-palindromic-subsequences](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
