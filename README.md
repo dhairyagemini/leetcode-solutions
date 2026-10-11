@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
