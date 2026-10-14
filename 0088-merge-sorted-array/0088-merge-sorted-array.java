@@ -1,27 +1,20 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        TreeMap<Integer,Integer>map=new TreeMap<>();
-        for(int i=0;i<m;i++){
-            map.put(nums1[i],map.getOrDefault(nums1[i],0)+1);
+        int i=m-1;
+        int j=n-1;
+        int k=m+n-1;
+        while(j>=0){
+            if(i>=0&&nums1[i]>nums2[j]){
+                nums1[k]=nums1[i];
+                i--;
             }
-
-            for(int i=0;i<n;i++){
-                map.put(nums2[i],map.getOrDefault(nums2[i],0)+1);
+            else{
+                nums1[k]=nums2[j];
+                j--;
             }
-           
-             int index=0;
+            k--;
 
-         for(int c:map.keySet()){
-            int freq=map.get(c);
-            for(int i=0;i<freq;i++){
-            
-                nums1[index++]=c;
-                
 
-            
-            }
-         }
-
-         
+        }
     }
 }
