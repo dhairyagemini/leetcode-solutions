@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -222,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
