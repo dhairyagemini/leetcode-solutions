@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1332-remove-palindromic-subsequences](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Sliding Window
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Recursion
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
