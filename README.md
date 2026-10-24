@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0704-binary-search) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Union-Find
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -285,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
