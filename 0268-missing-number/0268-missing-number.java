@@ -1,15 +1,11 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        HashMap<Integer,Integer>map=new HashMap<>();
+        int n=nums.length;
+        int expected=n*(n+1)/2;
+        int actual=0;
         for(int num:nums){
-            map.put(num,1);
-
+            actual+=num;
         }
-        for(int i=0;i<=nums.length;i++){
-            if(!map.containsKey(i)){
-                return i;
-            }
-        }
-        return -1;
+        return expected-actual;
     }
 }
