@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0268-missing-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0141-linked-list-cycle) |
