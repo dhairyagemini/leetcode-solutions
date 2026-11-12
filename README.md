@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0953-verifying-an-alien-dictionary](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -162,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
