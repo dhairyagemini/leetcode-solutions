@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/dhairyagemini/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/dhairyagemini/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
