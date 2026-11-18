@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0232-implement-queue-using-stacks](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/dhairyagemini/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
