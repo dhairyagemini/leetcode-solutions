@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1332-remove-palindromic-subsequences](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1544-make-the-string-great](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/dhairyagemini/leetcode-solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
