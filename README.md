@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1544-make-the-string-great](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/dhairyagemini/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1544-make-the-string-great](https://github.com/dhairyagemini/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/dhairyagemini/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/dhairyagemini/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/dhairyagemini/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/dhairyagemini/leetcode-solutions/tree/main/3174-clear-digits/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
